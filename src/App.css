@@ -1,0 +1,22 @@
+.icon-button {
+  border: none;
+  padding: 4px 8px; /* Some padding */
+  cursor: pointer;
+}
+
+.row {
+  display: grid;
+  grid-template-columns: minmax(250px, auto) auto auto;
+  gap: 8px;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.tooltip {
+  font-size: 10px;
+}
+
+aside {
+  margin-top: 2em;
+  color: var(--text-muted);
+}

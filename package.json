@@ -1,0 +1,31 @@
+{
+  "name": "valtio-component",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "generate-password": "1.7.0",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-feather": "2.0.10",
+    "react-scripts": "latest",
+    "react-tooltip": "4.2.21",
+    "typescript": "latest",
+    "valtio": "1.7.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "keywords": [],
+  "description": ""
+}
